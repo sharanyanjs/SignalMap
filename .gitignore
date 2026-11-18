@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.streamlit/
+outputs/*
+!outputs/.gitkeep
+data/processed/
+.ipynb_checkpoints/
+.DS_Store
+# Raw datasets
+data/raw/
+
+# Backup files
+*_backup.py
+
+# Temporary files
+.pytest_cache/
